@@ -1,0 +1,6 @@
+PyMuPDF 
+regex 
+pandas
+torch
+transformers
+PyPDF2
