@@ -4,3 +4,4 @@ pandas
 torch
 transformers
 PyPDF2
+streamlit
